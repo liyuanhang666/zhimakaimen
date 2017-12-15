@@ -1,0 +1,4 @@
+3
+shanghaishanggang 11 2 2
+beijingguoan 12 2 1
+shandonglunengtaishan 10 1 4
