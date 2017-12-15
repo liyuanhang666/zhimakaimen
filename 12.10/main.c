@@ -16,7 +16,7 @@ int comp(Player*a,Player*b)
 int main()
 {
     int n,i;
-    freopen("nn.txt","r",stdin);
+    //freopen("nn.txt","r",stdin);
     scanf("%d",&n);
     Player stu[n];
 
