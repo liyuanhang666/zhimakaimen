@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1513597412 source:c:\users\85263\documents\知码开门\12.9数据分析\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+
